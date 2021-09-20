@@ -72,7 +72,7 @@ Obs.: para fazer estes desáfios utilizei o IntelliJ IDEA (Community Edition)
 
 ​	 Neste problema você deve ler um número que indica uma coluna de uma matriz na qual uma operação deve ser realizada, um caractere maiúsculo, indicando a operação que será realizada, e todos os elementos de uma matriz **M**[12][12]. Em seguida, calcule e mostre a soma ou a média dos elementos que estão na área verde da matriz, conforme for o caso. A imagem abaixo ilustra o caso da entrada do valor 5 para a coluna da matriz, demonstrando os elementos que deverão ser considerados na operação.
 
-![img]()
+![img](https://github.com/PericlesManica/Desafios-Bootcamp-DIO-Inter/blob/master/UOJ_1182.png)
 
 ## Entrada
 
@@ -184,7 +184,7 @@ Obs.: para fazer estes desáfios utilizei o IntelliJ IDEA (Community Edition)
 
 ​	 Leia um caractere maiúsculo, que indica uma operação que deve ser realizada e uma matriz **M**[12][12]. Em seguida, calcule e mostre a soma ou a média considerando somente aqueles elementos que estão acima da diagonal principal da matriz, conforme ilustrado abaixo (área verde).
 
-![img]()
+![img](https://github.com/PericlesManica/Desafios-Bootcamp-DIO-Inter/blob/master/UOJ_1183.png)
 
 ## Entrada
 
